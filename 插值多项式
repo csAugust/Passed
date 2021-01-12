@@ -96,6 +96,7 @@ void print()
 
 int main()
 {
+	cout << "by csAugust" << endl;
 	cout << "插值结点的个数是：";
 	int m;
 	cin >> m;
